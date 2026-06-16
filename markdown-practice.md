@@ -16,10 +16,10 @@ Lists
 -Understanding and to engage more on data science and AI.
 
 Table
-
-| Name    | Role             
-|Github   Creating repository    https://github.com/
-VS Code  Source code editting   https://code.visualstudio.com/
+| Name    | Role                      | Link                              |
+|---------|---------------------------|-----------------------------------|
+| GitHub  | Creating repository       | https://github.com/               |
+| VS Code | Source code editing       | https://code.visualstudio.com/    |
 
 Task List
 -[] signing to Github
