@@ -1,0 +1,223 @@
+[33mcommit 4afa019222b1ae78989e2c0d8977f7a8bc5e072b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Joseph Wambugu <wambugujoseph467@gmail.com>
+Date:   Wed Jul 1 14:36:26 2026 +0300
+
+    Initial commit: portfolio structure
+
+[33mcommit 51e55de36d473bc78662a5e270750240523c6393[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: wambugujoseph467-dot <wambugujoseph467@gmail.com>
+Date:   Tue Jun 30 15:27:55 2026 +0300
+
+    Update about.html
+
+[33mcommit eee3c896b04baca4d17c07e1153fb652929e173e[m
+Author: wambugujoseph467-dot <wambugujoseph467@gmail.com>
+Date:   Tue Jun 30 15:25:19 2026 +0300
+
+    Correct DOCTYPE in about.html
+    
+    Fix DOCTYPE declaration in about.html
+
+[33mcommit ef71f8127bcbd727a604b384b870003cc0def244[m
+Author: wambugujoseph467-dot <wambugujoseph467@gmail.com>
+Date:   Tue Jun 30 15:22:44 2026 +0300
+
+    Fix formatting of link tag in about.html
+
+[33mcommit 339aabcf3dc3c79958c01831999d8a005fb4e4de[m
+Author: wambugujoseph467-dot <wambugujoseph467@gmail.com>
+Date:   Tue Jun 30 15:14:58 2026 +0300
+
+    Add stylesheet link to projects.html
+
+[33mcommit 4bc8c5e9e0621eabf4114f52dbfc86507e01943f[m
+Author: wambugujoseph467-dot <wambugujoseph467@gmail.com>
+Date:   Tue Jun 30 15:14:32 2026 +0300
+
+    Update contact.html
+
+[33mcommit 29f88bff976703ef74a06502f94ab111c986a4a3[m
+Author: wambugujoseph467-dot <wambugujoseph467@gmail.com>
+Date:   Tue Jun 30 15:14:06 2026 +0300
+
+    Add stylesheet link to about.html
+
+[33mcommit 585941b387415cdc5f6897e790d180e7daa7e254[m
+Author: wambugujoseph467-dot <wambugujoseph467@gmail.com>
+Date:   Tue Jun 30 15:13:27 2026 +0300
+
+    Add stylesheet link to Index.html
+
+[33mcommit 15008bd60b9fc9dd99a9c1da595e6d7e57c6c628[m
+Author: wambugujoseph467-dot <wambugujoseph467@gmail.com>
+Date:   Tue Jun 30 14:58:59 2026 +0300
+
+    Update Index.html
+
+[33mcommit a75168be700e932c52916990a7edcaa57130d917[m
+Author: wambugujoseph467-dot <wambugujoseph467@gmail.com>
+Date:   Tue Jun 30 14:51:48 2026 +0300
+
+    Enhance contact.html with new content and structure
+    
+    Updated the contact page title and added navigation menu, social media links, and location information.
+
+[33mcommit b805aca1c9d8e18c762158cbc6dcfc5f5633ed3a[m
+Author: wambugujoseph467-dot <wambugujoseph467@gmail.com>
+Date:   Tue Jun 30 14:51:00 2026 +0300
+
+    Enhance projects.html with titles and project details
+    
+    Updated the title and navigation menu for clarity. Added project descriptions and structured the content for better readability.
+
+[33mcommit a04fb44d72fe32eeac471a29282023ee3ce69296[m
+Author: wambugujoseph467-dot <wambugujoseph467@gmail.com>
+Date:   Tue Jun 30 14:50:06 2026 +0300
+
+    Enhance About Me page with title and content updates
+    
+    Updated the title to include the author's name and improved the background description. Enhanced navigation link styling and added comments for better structure.
+
+[33mcommit ce4d10c11b8593870680336e3402dac429bde301[m
+Author: wambugujoseph467-dot <wambugujoseph467@gmail.com>
+Date:   Tue Jun 30 14:44:55 2026 +0300
+
+    Update contact.html
+
+[33mcommit 4abad29b78103c6f8e0e37c3dde8a9ebbcdd860f[m
+Author: wambugujoseph467-dot <wambugujoseph467@gmail.com>
+Date:   Tue Jun 30 14:42:18 2026 +0300
+
+    Update projects.html
+
+[33mcommit 573cf78b9119d0a2ae91e7500467093ec209d282[m
+Author: wambugujoseph467-dot <wambugujoseph467@gmail.com>
+Date:   Tue Jun 30 14:33:35 2026 +0300
+
+    Update about.html
+
+[33mcommit 5e159fe08c5dd0b9c13287c74587d9f34edbc2b0[m
+Author: wambugujoseph467-dot <wambugujoseph467@gmail.com>
+Date:   Tue Jun 30 11:57:21 2026 +0300
+
+    Create images
+
+[33mcommit 16bdbb580f1001690212c2a543bf08889f7f65c2[m
+Author: wambugujoseph467-dot <wambugujoseph467@gmail.com>
+Date:   Tue Jun 30 11:53:35 2026 +0300
+
+    Create projects.html
+
+[33mcommit a092e61071fd36da9c25e97d47f7b153a1849639[m
+Author: wambugujoseph467-dot <wambugujoseph467@gmail.com>
+Date:   Tue Jun 30 11:53:07 2026 +0300
+
+    Create about.html
+
+[33mcommit f472ec2e184bfe6ea8c92e51571f080f53e0c484[m
+Author: wambugujoseph467-dot <wambugujoseph467@gmail.com>
+Date:   Sun Jun 28 10:38:47 2026 +0300
+
+    Correct name spelling in header
+
+[33mcommit d2298df0ecbbf1d4d895e0dfacaccee94500c9c8[m
+Author: wambugujoseph467-dot <wambugujoseph467@gmail.com>
+Date:   Sun Jun 28 10:34:36 2026 +0300
+
+    Add initial HTML structure for Week 5 submission
+
+[33mcommit b1c1c1ddfb965c9ebc6c8eb448e7ca20c8710543[m
+Author: wambugujoseph467-dot <wambugujoseph467@gmail.com>
+Date:   Wed Jun 17 10:59:36 2026 +0300
+
+    Add image and favorite website to index.html
+    
+    Added an image and a favorite website link.
+
+[33mcommit 05de31f1725dc2d126a8e4756a197477f2bf159b[m
+Author: wambugujoseph467-dot <wambugujoseph467@gmail.com>
+Date:   Tue Jun 16 15:53:44 2026 +0300
+
+    Revise contact form HTML structure and labels
+    
+    Updated the contact form layout and structure.
+
+[33mcommit 00d75b3fa36ee0294b970e9ff355a9d1938da771[m
+Author: wambugujoseph467-dot <wambugujoseph467@gmail.com>
+Date:   Tue Jun 16 15:36:42 2026 +0300
+
+    Create contact.html
+
+[33mcommit 94861be2259bfcc89474a8b04109d8d1429b5199[m
+Author: wambugujoseph467-dot <wambugujoseph467@gmail.com>
+Date:   Tue Jun 16 14:53:23 2026 +0300
+
+    Rename contact.html to semantic-conversion.html
+
+[33mcommit 480e6e9349137e713ef6dbd12a0e9d2082caefc9[m
+Author: wambugujoseph467-dot <wambugujoseph467@gmail.com>
+Date:   Tue Jun 16 14:50:47 2026 +0300
+
+    Add contact.html with site structure and content
+
+[33mcommit 0b1a9b09a4db446c5465b004fa5420614696231f[m
+Author: wambugujoseph467-dot <wambugujoseph467@gmail.com>
+Date:   Tue Jun 16 14:29:49 2026 +0300
+
+    Enhance index.html with title and hobby details
+    
+    Updated the HTML structure and added a title.
+
+[33mcommit add342dbda307edcc27658421b8c074c9c05699f[m
+Author: wambugujoseph467-dot <wambugujoseph467@gmail.com>
+Date:   Tue Jun 16 14:08:26 2026 +0300
+
+    Create index.html with personal details
+    
+    Added an HTML file with personal information and hobbies.
+
+[33mcommit dc8046bfbda21ddc0625eaf664529459a2c7f6f1[m
+Author: wambugujoseph467-dot <wambugujoseph467@gmail.com>
+Date:   Tue Jun 16 13:42:38 2026 +0300
+
+    Update markdown-practice.md with improved formatting and corrections
+
+[33mcommit 90d2759873a8f8fa310ad356c8a7e8fdb7171fb2[m
+Author: wambugujoseph467-dot <wambugujoseph467@gmail.com>
+Date:   Tue Jun 16 13:34:24 2026 +0300
+
+    Fix markdown formatting issues: task lists, code block, blockquote, and list items
+
+[33mcommit c2bb2841adcbf69cac0b478f36f68a1e9ffa7038[m
+Author: wambugujoseph467-dot <wambugujoseph467@gmail.com>
+Date:   Tue Jun 16 13:33:21 2026 +0300
+
+    Refactor markdown-practice.md for clarity
+    
+    Removed duplicate table and fixed formatting issues.
+
+[33mcommit 7ad9f0f7e316e66e7b90218ae310aaa35313abc0[m
+Author: wambugujoseph467-dot <wambugujoseph467@gmail.com>
+Date:   Tue Jun 16 13:20:17 2026 +0300
+
+    Add markdown practice exercises
+
+[33mcommit 3e03c1b2cd56730301e876ce879158886131c9d2[m
+Author: wambugujoseph467-dot <wambugujoseph467@gmail.com>
+Date:   Tue Jun 16 12:12:51 2026 +0300
+
+    Fix typo in student description
+
+[33mcommit 2af993ec8b288bd87c391dae1519b915d0fb921e[m
+Author: wambugujoseph467-dot <wambugujoseph467@gmail.com>
+Date:   Tue Jun 16 11:51:28 2026 +0300
+
+    Add initial HTML structure for personal site
+    
+    Created a basic HTML structure for a personal site with sections for 'About me', 'What I'm Learning', and 'Links'.
+
+[33mcommit 835faa6474cf80ee0e107de5183ac259cc35f164[m
+Author: wambugujoseph467-dot <wambugujoseph467@gmail.com>
+Date:   Tue Jun 16 11:22:17 2026 +0300
+
+    Initial commit
